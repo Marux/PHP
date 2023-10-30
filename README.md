@@ -35,4 +35,4 @@ Este es un punto de partida ideal para aprender los fundamentos de la interacci�
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Puedes encontrar más detalles en el archivo [LICENSE].
+Este proyecto está bajo la Licencia MIT. Puedes encontrar más detalles en el archivo [LICENSE](LICENSE).
