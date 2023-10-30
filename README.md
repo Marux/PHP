@@ -22,7 +22,7 @@ Este es un punto de partida ideal para aprender los fundamentos de la interacci�
 ## Uso
 
 1. Clona o descarga este repositorio en tu servidor web.
-2. Configura la conexión a la base de datos en el archivo `config.php`.
+2. Configura la conexión a la base de datos en el archivo `db.php`.
 3. Accede a la aplicación a través de tu navegador web.
 
 ## Contribuciones
