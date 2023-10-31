@@ -31,7 +31,7 @@ Este es un punto de partida ideal para aprender los fundamentos de la interacci√
 
 ## Autor
 
-- Victor Trimpai - victor.trimpai1987@gmail.com
+- Victor Trimpai - [Instagram](https://www.instagram.com/vmtrdev/)
 
 ## Licencia
 
